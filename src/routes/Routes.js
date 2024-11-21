@@ -1,4 +1,4 @@
-export { default as Index } from "../pages/Index"
+export { default as Homepage } from "../pages/Homepage"
 export { default as B2B } from "../pages/B2B/B2B"
 export { default as OurStory } from "../pages/OurStory/OurStory"
 export { default as Contact } from "../pages/Contact/Contact"
